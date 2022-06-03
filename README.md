@@ -12,6 +12,10 @@ I fell in love with website and systems development when I was 13 years old, whe
 * 🧠  I'm learning DevOPS
 * 🤝  I'm open to collaborating on Sass Platforms and Projects Based in Laravel
 
+### Full Professional Resumes
+- English: https://dilneiss.github.io/from_brazil_dilnei/
+- Portuguese: https://dilneiss.github.io/dilnei/
+
 ### Skills
 
 <p align="left">
