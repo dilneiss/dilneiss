@@ -4,7 +4,15 @@ Hi 👋 My name is Dilnei Spancerski
 PHP/Laravel Backend Developer
 -----------------------------
 
-I fell in love with website and systems development when I was 13 years old, where I learned to develop systems in php with databases. Altogether in my career, I can add more than 20 years of experience with website and systems development, but 10 years as a professional. In 2012, I joined a software factory company. Later this company became just a sass ecommerce platform, where I had 100% participation in the entire development process. We work a lot with php and mysql. I also acquired a lot of knowledge in bug solving, queues, unit tests, integration tests, methodologies, best practices, teamwork, leadership moments, etc. This was the company that forced me to learn the most. I can say that it was better than a college, because I learned much more than a college offers. Today I work as a backend developer in the finance squad at Conecta lá, where I develop new features and improvements in this part.
+I discovered my passion for web and systems development at the tender age of 13, diving deep into PHP and database management. With over 20 years of hands-on experience in this domain, I've spent a decade honing my skills as a seasoned professional.
+
+In 2012, I embarked on a transformative journey with a software factory that later pivoted to a SaaS e-commerce platform. I'm proud to have played an instrumental role, contributing to the entirety of its development lifecycle. Our primary tech stack revolved around PHP and MySQL.
+
+My tenure there equipped me with invaluable insights into bug resolution, queue management, unit testing, integration testing, modern methodologies, industry best practices, and team dynamics. I've also had the privilege to lead and inspire teams, fostering an environment of innovation and growth. Reflecting on my time there, I genuinely believe that the practical, real-world challenges and learnings I encountered surpassed traditional academic experiences.
+
+Currently, I'm leveraging my expertise as a backend developer with the finance squad at Conecta Lá, consistently pushing the envelope to develop innovative features and enhancements.
+
+Recently, I've expanded my technical repertoire by diving into Python and Node.js. Within a short span of three months for each language, I've rapidly assimilated their nuances and have begun integrating them into my development processes, showcasing my adaptability and thirst for continuous learning.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [dilnei.soethe@gmail.com](mailto:dilnei.soethe@gmail.com)
